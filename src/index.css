@@ -5,7 +5,7 @@
 @tailwind utilities;
 
 .banner {
-  background: url("./assets/banner.svg");
+  background: url("./assets/banner05.svg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
