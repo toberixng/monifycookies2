@@ -7,8 +7,9 @@ const App = () => {
   return (
     <>
       <SectionWrapper 
-        title="You own store of Nifty NFTs. Start Selling & Growing"
-        description="Buy, store, collect NFTS, exchange & earn crypto. Join 25+ million people using ProNef Marketplace."
+        title="Make money from accepting our cookies"
+        description="Monify cookies is a browser plugin extension that provides its,
+        users, the ability to block all unsolicited ads."
         showBtn
         mockupImg={assets.homeHero}
         banner="banner"
