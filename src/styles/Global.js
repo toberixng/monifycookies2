@@ -33,7 +33,7 @@ const styles = {
 
   fullImg: "w-full h-full object-cover",
   sectionImg: "w-full h-full minmd:w-11/12 minmd:h-11/12 object-contain",
-  btnIcon: "w-5 h-5 minmd:w-10 minmd:h-10 object-contain",
+  btnIcon: "w-10 h-10 minmd:w-10 minmd:h-10 object-contain",
 
   featureImg: "w-20 h-20 minlg:w-40 minlg:h-40 object-contain mb-1",
   featureText:
