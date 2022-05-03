@@ -47,7 +47,7 @@ const SectionWrapper = ({
 
           <div class="flex flex-wrap -mx-px overflow-hidden sm:-mx-px md:-mx-px lg:-mx-px xl:-mx-px">
             {showBtn && <Button assetUrl={assets.expo} link="#" />}
-            {showBtn && <Button2 assetUrl={assets.expo} link="#" />}
+            {showBtn && <Button2 assetUrl={assets.firefox} link="#" />}
           </div>
         </div>
         <div className={`flex-1 ${styles.flexCenter}p-8 sm:px-0`}>

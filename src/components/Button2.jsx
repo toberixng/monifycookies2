@@ -16,7 +16,7 @@ const Button = ({ assetUrl, link }) => {
               className={styles.btnIcon}
             />
             <div className="flex flex-col justify-start ml-4">
-              <p className={`${styles.btnText} font-normal text-xs`}>Mozilla</p>
+              <p className={`${styles.btnText} font-normal text-xs`}>Firefox</p>
               <p className={`${styles.btnText} font-bold text-sm`}>Extension</p>
             </div>
           </div>
