@@ -21,8 +21,8 @@ export default {
   javascript,
   react,
   scene,
-  Abdulrasak,
   mockup,
+  Abdulrasak,
   Toby,
   Ademola,
   Ndifereke
