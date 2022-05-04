@@ -15,13 +15,15 @@ const Features = () => {
     <div className={`${styles.section} ${styles.bgPrimary} banner03`}>
       <div className={`${styles.subSection} flex-col text-center`}>
         <div>
-          <h1 className={`${styles.h1Text} ${styles.whiteText}`}>Technologies</h1>
-          <p className={`${styles.pText} ${styles.whiteText}`}>ProNef has been developed using a cross-platform technology, React Native.</p>
+          <h1 className={`${styles.h1Text} ${styles.whiteText}`}>The Awesome Team</h1>
+          <p className={`${styles.pText} ${styles.whiteText}`}>Meet the team behind the technology</p>
         </div>
 
         <div className={styles.flexWrap}>
-          <FeatureCard iconUrl={assets.react} iconText="React Native" />
-          <FeatureCard iconUrl={assets.javascript} iconText="JavaScript" />
+          <FeatureCard iconUrl={assets.Abdulrasak} iconText="Abdulrasak Abdulkadir" />
+          <FeatureCard iconUrl={assets.Ndifereke} iconText="Ndifereke Mathew Sam" />
+          <FeatureCard iconUrl={assets.Toby} iconText="Oluwatobi Fatumo" />
+          <FeatureCard iconUrl={assets.Ademola} iconText="Ademola Joseph" />
         </div>
       </div>
     </div>

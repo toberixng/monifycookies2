@@ -35,11 +35,11 @@ const styles = {
   sectionImg: "w-full h-full minmd:w-11/12 minmd:h-11/12 object-contain",
   btnIcon: "w-10 h-10 minmd:w-10 minmd:h-10 object-contain",
 
-  featureImg: "w-20 h-20 minlg:w-40 minlg:h-40 object-contain mb-1",
+  featureImg: "w-full h-full object-cover",
   featureText:
     "font-semibold font-IBMPlex text-base minlg:text-3xl text-tertiary",
   featureCard:
-    "bg-white m-10 p-6 rounded-md flex justify-around items-center flex-col hover:shadow-lg cursor-pointer w-40 h-40 minlg:w-80 minlg:h-80",
+    "bg-white m-5 pb-6 rounded-md flex justify-around items-center flex-col hover:shadow-lg cursor-pointer w-60 h-80 minlg:w-100 minlg:h-100",
 };
 
 export default styles;
